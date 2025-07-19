@@ -17,3 +17,9 @@ Operadores Lógicos: Para combinar condições (ex: && para "E").
 Estruturas de Decisão (if/else if/else): Para classificar o herói em um nível específico com base em sua XP.
 
 O programa recebe um nome e uma quantidade de XP, processa esses dados e exibe uma mensagem indicando o nível do herói.<p/>
+<br/>
+<h3> Get in contact with me! :smiley:</h3>
+<br/>
+<a href=https://www.linkedin.com/in/ricardo-martins-r2730/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-image"> </a>
+<br>
+<br>
